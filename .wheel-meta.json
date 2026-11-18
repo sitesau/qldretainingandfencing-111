@@ -1,0 +1,22 @@
+{
+  "wheel_id": 923,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-111",
+  "project": "retaining-wall-installation-brisbane-red-flags-f052c2c47532085f",
+  "parent_t1_ref": "qldretainingandfencing-155",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane red flags",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-111/",
+  "tier": "T2",
+  "writeback_nonce": "98854e73395356eb",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-beginner-guide-e2e1990ef4e/",
+      "anchor": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-beginner-guide-e2e1990ef4e/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
